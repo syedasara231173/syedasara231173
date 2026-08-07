@@ -1,42 +1,59 @@
-# Syeda Sara Batool
-## ML Engineer | AI & Data Science Specialist
+<div align="center">
 
-Professional Machine Learning Engineer dedicated to building scalable, production-grade AI systems. I specialize in designing intelligent architectures that leverage advanced NLP, Computer Vision, and RAG pipelines to solve complex real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Syeda%20Sara%20Batool&fontSize=38&fontColor=38BDF8&animation=twinkling&desc=Machine%20Learning%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+
+<a href="https://github.com/syedasara231173">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+AI+Systems;Building+RAG+Pipelines+%26+Deep+Learning;FuturePath+AI+%7C+Computer+Vision;Open+to+Opportunities" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=syedasara231173&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+## About Me
+
+I am a Machine Learning Engineer focused on designing and deploying scalable AI systems, deep learning architectures, and production-grade RAG pipelines. My work bridges complex data structures with practical applications across computer vision, NLP, and intelligent agents.
 
 ---
 
-## 🚀 Technical Expertise
-
-**Core Competencies**
-* **Machine Learning & Deep Learning**: Expert in developing, configuring, and optimizing neural network architectures, including CNNs, LSTMs, Transformers, and Vision Transformers (ViT).
-* **AI Systems & NLP**: Specialization in RAG (Retrieval-Augmented Generation) pipelines, embedding models, and multi-agent systems using frameworks like LangGraph.
-* **Computer Vision**: Experience in forensic classification, hybrid explainable vision systems, and medical image screening.
-* **Data Engineering**: Proficient in managing large, high-dimensional datasets within Linux environments (Ubuntu/WSL) and building automated data pipelines.
-
-**Tech Stack**
-* **Languages**: Python, C++, SQL.
-* **Frameworks & Libraries**: PyTorch, scikit-learn, HuggingFace, LangChain, LangGraph, FastAPI, Flask, Streamlit.
-* **Tools**: Git, Postman, Jupyter, MATLAB, Linux/WSL.
-
----
-
-## 🔬 Featured Projects
+## Featured Projects
 
 ### FuturePath AI
-Designed and managed the development of an integrated, multi-agent career preparation platform. This system automates critical professional workflows including resume optimization, cover letter generation, and mock interview practice using a digital avatar as the primary interface.
+An integrated, multi-agent career preparation platform that automates resume optimization, cover letter generation, and mock interviews featuring a digital avatar front-liner interface.
 
 ### Dual-Track Explainable Vision Transformer
-Engineered a hybrid computer vision system designed for medical image screening. Utilizing DINO Vision Transformers, this project provides high-accuracy, explainable insights for clinical environments.
+A hybrid computer vision system utilizing DINO Vision Transformers to deliver high-accuracy, explainable medical image screening.
 
 ### Forensic Ancestry Classifier
-Built a high-resolution forensic system capable of predicting ancestry profiles from genomic datasets, utilizing principal component analysis features to interpret high-dimensional genetic data.
+A high-resolution forensic machine learning system designed to predict ancestry profiles from high-dimensional genomic datasets using principal component analysis.
 
 ---
 
-## 📊 Quick Links
+## Tech Stack
 
-* **LinkedIn**: [linkedin.com/in/syeda-sara-batool](https://www.linkedin.com/in/syeda-sara-batool/)
-* **Portfolio**: [portfolio-sara25.lovable.app](https://portfolio-sara25.lovable.app/)
+* **Languages & Core**: Python, C++, SQL, PyTorch, scikit-learn
+* **AI & Frameworks**: HuggingFace, LangChain, LangGraph, FastAPI, Flask, Streamlit
+* **Tools & Environment**: Git, Docker, Linux/WSL, Jupyter, Postman
 
 ---
-*Open to challenging opportunities in Machine Learning Engineering, AI Research, and collaborative technical projects.*
+
+## GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=syedasara231173&show_icons=true&theme=tokyonight&border_color=0ea5e9&title_color=38BDF8&icon_color=0ea5e9&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasara231173&layout=compact&theme=tokyonight&border_color=0ea5e9&title_color=38BDF8&text_color=c9d1d9" width="48%"/>
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-sara-batool/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-sara25.lovable.app/)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
